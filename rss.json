@@ -1,0 +1,7 @@
+{
+    "rules": {
+        "allowAutojoin": "true",
+        "allowAutorespond": "true",
+        "allowAutowoot": "false"
+    }
+}
